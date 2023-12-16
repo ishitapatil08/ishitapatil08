@@ -27,5 +27,5 @@ I am a passionate and dedicated third-year student pursuing studies in Artificia
 
 ### GitHub Stats:
 <p align="center">
-  <b>![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishitapatil08&show_icons=true&theme=radical)</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitapatil08&show_icons=true&theme=radical" alt="Ishita's GitHub Stats">
 </p>
