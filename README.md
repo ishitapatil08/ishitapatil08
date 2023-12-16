@@ -26,4 +26,6 @@ I am a passionate and dedicated third-year student pursuing studies in Artificia
 - 💼 LinkedIn: [Ishita Patil](https://www.linkedin.com/in/ishitapatil/)
 
 ### GitHub Stats:
-![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishitapatil08&show_icons=true&theme=radical)
+<p align="center">
+  <b>![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishitapatil08&show_icons=true&theme=radical)</b>
+</p>
