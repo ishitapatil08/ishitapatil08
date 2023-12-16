@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hello, I'm Ishita Patil! :wave:</h1
                                                       
 <h2 align="center">:books: B.Tech Artificial Intelligence and Machine Learning:books:</h2>
+
+<p align="center">
+  <a href="https://github.com/ishitapatil08/"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Engineering+Student;Python%20|%20Machine+Learning%20|%20Deep+Learning;Open+Source+Contributor;Club+Head+of+Data+Polaris;Nano-Degree:+Python+for+Artificial+Intelligence;JLPT+Japanese+N5+Certified&center=true&width=550&height=40"></a>
+</p>
+
 ### About Me 🚀:
 
 - 📚 Currently enrolled in a comprehensive Artificial Intelligence and Machine Learning program.
