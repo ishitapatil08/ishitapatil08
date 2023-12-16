@@ -1,5 +1,5 @@
 <p align="center">
-  <b>👋 Hello, I'm Ishita Patil!</b>
+  <b><big>👋 Hello, I'm Ishita Patil!</big></b>
 </p>
 
 I am a passionate and dedicated third-year student pursuing a Bachelor's in Artificial Intelligence and Machine Learning. My academic journey is centered around exploring the fascinating realms of AI, machine learning algorithms, and their real-world applications.
