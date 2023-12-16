@@ -23,7 +23,7 @@ I am a passionate and dedicated third-year student pursuing studies in Artificia
 ### Let's Connect 🤝:
 
 - 📧 Email: YourEmail@example.com
-- 💼 LinkedIn: [Ishita Patil](https://www.linkedin.com/in/ishitapatil/)
+- 💼 LinkedIn: [Ishita Patil](https://www.linkedin.com/in/ishitapatil03/)
 
 ### GitHub Stats:
 <p align="center">
