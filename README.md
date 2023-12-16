@@ -1,9 +1,6 @@
-<p align="center">
-  <b>👋 Hello, I'm Ishita Patil!</b>
-</p>
-
-I am a passionate and dedicated third-year student pursuing a Bachelor's in Artificial Intelligence and Machine Learning. My academic journey is centered around exploring the fascinating realms of AI, machine learning algorithms, and their real-world applications.
-
+<h1 align="center">👋 Hello, I'm Ishita Patil! :wave:</h1
+                                                      
+<h2 align="center">:books: B.Tech Artifici in  and Engineering :books:</h2>
 ### About Me 🚀:
 
 - 📚 Currently enrolled in a comprehensive Artificial Intelligence and Machine Learning program.
@@ -22,7 +19,7 @@ I am a passionate and dedicated third-year student pursuing a Bachelor's in Arti
 
 ### Let's Connect 🤝:
 
-- 📧 Email: YourEmail@example.com
+- 📧 Email: contact.ishitapatil@gmail.com
 - 💼 LinkedIn: [Ishita Patil](https://www.linkedin.com/in/ishitapatil03/)
 
 ### GitHub Stats:
