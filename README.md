@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello, I'm Ishita Patil! :wave:</h1
                                                       
-<h2 align="center">:books: B.Tech Artificial Intelligence and Machine Learning :books:</h2>
-
-
+<h2 align="center">:books: B.Tech in Artificial Intelligence & Machine Learning :books:</h2>
 
 ### About Me 🚀:
 
