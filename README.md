@@ -18,9 +18,8 @@
 - Advancing skills in natural language processing (NLP) and computer vision.
 - Exploring ethical considerations in AI and promoting responsible AI practices.
 
-### Let's Connect 🤝:
 
-<h2 align="center">:telephone_receiver: Reach Me :telephone_receiver:</h2>
+<h2 align="center">:telephone_receiver: Connect With Me At 🤝 :telephone_receiver:</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/ishitapatil03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.github.com/ishitapatil08/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
