@@ -2,7 +2,7 @@
   <b>👋 Hello, I'm Ishita Patil!</b>
 </p>
 
-I am a passionate and dedicated third-year student pursuing studies in Artificial Intelligence and Machine Learning. My academic journey is centered around exploring the fascinating realms of AI, machine learning algorithms, and their real-world applications.
+I am a passionate and dedicated third-year student pursuing a Bachelor's in Artificial Intelligence and Machine Learning. My academic journey is centered around exploring the fascinating realms of AI, machine learning algorithms, and their real-world applications.
 
 ### About Me 🚀:
 
