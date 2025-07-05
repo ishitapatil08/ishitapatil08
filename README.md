@@ -4,14 +4,14 @@
 
 # About Me 🚀
 
-- 📚 Currently enrolled in a comprehensive Artificial Intelligence and Machine Learning program.
+- 📚 Done with comprehensive Artificial Intelligence and Machine Learning program.
 - 💡 Keen interest in exploring cutting-edge technologies and their potential to drive impactful change.
 - 🌐 Enthusiastic about contributing to open-source projects and collaborative development.
 
 ### Technical Skills 🛠️:
 
 - Python | TensorFlow | PyTorch | Scikit-learn
-- Data Analysis | Machine Learning | Deep Learning
+- Data Analysis | Machine Learning | Deep Learning | AI 
 
 ### Current Learning Focus 🌱:
 
